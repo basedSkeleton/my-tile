@@ -16,3 +16,7 @@
 - If you want to change the texture, then, open the ```terrain.png``` file and count up from 0 for each block texture until you reach the one you want.
 - If you want to change the name of the block, navigate to line 53.<br/>```(*Tile_setDescriptionId)(my_tile, "my_tile");```
 - The second argument, ```"my_tile"``` is the identifier for the language string. So, if it's set to "grass" instead, the game will search the language file for ```tile.grass.name```.
+
+### Credits
+- TheBrokenRail
+- Bigjango13
